@@ -13,7 +13,6 @@ Este programa é composto por um Dashboard, que foi implementado em Electron, e 
 * [Gens](https://segaretro.org/Gens/GS) - Emulador Utilizado para rodar o jogo
 * [Alguma Hack Rom do jogo] - ¯\_(ツ)_/¯
 
-``
+```
 
-
-`
+###  ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/control.gif)  Configurando o Emulador
