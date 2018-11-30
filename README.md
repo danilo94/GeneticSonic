@@ -38,12 +38,12 @@ O código irá aguardar cerca de 3 segundos para que o usuário posicione a tela
 
 ### ![eggman](https://github.com/danilo94/GeneticSonic/blob/master/imgs/egg.gif) Contribua !
 
-Se você gostou do projeto, faça um fork e contribua adicionando novas funcionalidades e corrigindo provaveis bugs tanto no algoritmo genético quanto no dashboard.
+Se você gostou do projeto, faça um fork e contribua adicionando novas funcionalidades e corrigindo bugs tanto no algoritmo genético quanto no dashboard.
 
 
 ### Assista em tempo real
 Se você curtiu o projeto se inscreva nos dois canais e ajude o projeto a alcançar mais pessoas :D.
 
 * [Sonic Bot](https://www.youtube.com/channel/UCKKpIwiQ8cANH-Fb1dYGDgA) - Live onde é possível ver o algoritmo jogando as fases
-* [Dan Maker](https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA?view_as=subscriber) - Canal do criador do projeto-
+* [Dan Maker](https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA?view_as=subscriber) - Canal do criador do projeto
 
