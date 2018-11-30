@@ -16,3 +16,11 @@ Este programa é composto por um Dashboard, que foi implementado em Electron, e 
 ```
 
 ###  ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/control.gif)  Configurando o Emulador
+
+Para que o algoritmo genético consiga jogar o jogo normalmente, será necessário utilizar o buffer do teclado diretamente, logo este ficará impossibilitado de ser utilizado. Também será necessário configurar as teclas do teclado na seguinte ordem: I ( Cima ), K (Baixo), L (Direita), J (Esquerda).
+
+
+### ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/control.gif) Rodando o pela primeira vez
+
+
+
