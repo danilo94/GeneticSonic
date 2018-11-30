@@ -1,5 +1,5 @@
 # ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/msonic.gif) Genetic Sonic
- Um Algoritmo Genético para o jogo Sonic The Hedgehog.
+ Um Algoritmo Genético para o jogo Sonic The Hedgehog 1.
 
 ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/dev.PNG) 
 ## Motivação
@@ -33,5 +33,17 @@ npm start - Irá inicializar o dashboard.
 Abrir o Gens e carregar a rom do jogo.
 python main.py - Dentro da pasta do emulador
 ```
-O código irá aguardar cerca de 3 segundos para que o usuário posicione a tela do
-emulador em foco e o processo evolutivo irá iniciar.
+O código irá aguardar cerca de 3 segundos para que o usuário posicione a tela do emulador em foco e o processo evolutivo irá iniciar.
+
+
+### ![eggman](https://github.com/danilo94/GeneticSonic/blob/master/imgs/egg.gif) Contribua !
+
+Se você gostou do projeto, faça um fork e contribua adicionando novas funcionalidades e corrigindo provaveis bugs tanto no algoritmo genético quanto no dashboard.
+
+
+### Assista em tempo real
+Se você curtiu o projeto se inscreva nos dois canais e ajude o projeto a alcançar mais pessoas :D.
+
+* [Sonic Bot](https://www.youtube.com/channel/UCKKpIwiQ8cANH-Fb1dYGDgA) - Live onde é possível ver o algoritmo jogando as fases
+* [Dan Maker](https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA?view_as=subscriber) - Canal do criador do projeto-
+
