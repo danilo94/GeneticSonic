@@ -25,7 +25,7 @@ Este programa é composto por um Dashboard, que foi implementado em Electron, e 
 Para que o algoritmo genético consiga jogar o jogo normalmente, será necessário utilizar o buffer do teclado diretamente, logo este ficará impossibilitado de ser utilizado. Também será necessário configurar as teclas do teclado na seguinte ordem: I ( Cima ), K (Baixo), L (Direita), J (Esquerda). Será também necessário criar um ponto de partida na fase em que deseja jogar. Para isso basta pressionar F5 no inicio da fase que deseja começar :) .
 
 
-### ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/sonicrun.gif) Rodando o pela primeira vez
+### ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/sonicrun.gif) Rodando pela primeira vez
 
 Ao rodar o algoritmo deve se levar em consideração que como utilizamos o buffer do teclado para injetar os comandos, é necessário que o emulador esteja SEMPRE em foco na tela. Sabendo disso, para executar tanto o dashboard, quanto o algoritmo genético basta executar o seguinte conjunto de passos no prompt de comando do windows.
 
