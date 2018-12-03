@@ -1,7 +1,10 @@
 # ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/msonic.gif) Genetic Sonic
  Um Algoritmo Genético para o jogo Sonic The Hedgehog 1.
 
-![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/dev.PNG) 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title") 
+ 
+ 
+[![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/dev.PNG)](https://www.youtube.com/watch?v=Ipv6g3z4RNo) 
 ## Motivação
  Implementação de um algoritmo genético capaz de jogar e eventualmente, passar as fases do jogo sonic the hedgehog 1. Se trata de uma implementação baseada no conceito de algoritmos genéticos, que utiliza o conceito da evolução dos seres vivos para que eventualmente o algoritmo consiga vencer os desafios da fase e chegar até o final.
 ### Pre-requisitos
