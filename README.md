@@ -1,7 +1,5 @@
 # ![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/msonic.gif) Genetic Sonic
  Um Algoritmo Genético para o jogo Sonic The Hedgehog 1.
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title") 
  
  
 [![Sonic](https://github.com/danilo94/GeneticSonic/blob/master/imgs/dev.PNG)](https://www.youtube.com/watch?v=Ipv6g3z4RNo) 
