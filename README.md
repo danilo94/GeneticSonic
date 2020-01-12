@@ -45,6 +45,5 @@ Se você gostou do projeto, faça um fork e contribua adicionando novas funciona
 ### Assista em tempo real
 Se você curtiu o projeto se inscreva nos dois canais e ajude o projeto a alcançar mais pessoas :D.
 
-* [Sonic Bot](https://www.youtube.com/channel/UCKKpIwiQ8cANH-Fb1dYGDgA) - Live onde é possível ver o algoritmo jogando as fases
 * [Dan Maker](https://www.youtube.com/channel/UCZbZ0IEMOoLiDxAGM7KBXwA?view_as=subscriber) - Canal do criador do projeto
 
